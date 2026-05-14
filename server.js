@@ -27,7 +27,9 @@ const MODEL_MAPPING = {
   'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro',
   'deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash',
   'glm-5.1': 'z-ai/glm-5.1',
-  'kimi-k2.6': 'moonshotai/kimi-k2.6'
+  'kimi-k2.6': 'moonshotai/kimi-k2.6',
+  'gemma-4-31b-it': 'google/gemma-4-31b-it',
+  'gpt-oss-120b': 'openai/gpt-oss-120b'  
 };
 
 // Health check endpoint
