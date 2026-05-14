@@ -29,7 +29,8 @@ const MODEL_MAPPING = {
   'glm-5.1': 'z-ai/glm-5.1',
   'kimi-k2.6': 'moonshotai/kimi-k2.6',
   'gemma-4-31b-it': 'google/gemma-4-31b-it',
-  'gpt-oss-120b': 'openai/gpt-oss-120b'  
+  'gpt-oss-120b': 'openai/gpt-oss-120b',
+  'step-3.5-flash': 'stepfun-ai/step-3.5-flash'
 };
 
 // Health check endpoint
